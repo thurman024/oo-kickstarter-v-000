@@ -1,8 +1,6 @@
-class Backers
-  attr_accessor 
+class Backer
+  attr_accessor
 
-  def initialize(name)
-    @name = name
-  end
+  def ::new
 
 end
