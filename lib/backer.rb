@@ -1,5 +1,5 @@
 class Backers
-  attr_accessor
+  attr_accessor 
 
   def initialize(name)
     @name = name
